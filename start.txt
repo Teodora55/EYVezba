@@ -1,2 +1,6 @@
 Test Git Quick Start demo
+<<<<<<< HEAD
 Izmena na glavnoj grani
+=======
+Izmena na sporednoj grani
+>>>>>>> test

@@ -16,3 +16,5 @@
     
     
     ##Nova izmena
+    
+    izmena pred rebase
